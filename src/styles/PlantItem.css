@@ -1,7 +1,7 @@
 .lmj-plant-item-cover {
   height: 250px;
   width: 250px;
-  border-radius: 20px;
+  border-radius: 20px 0px 20px 0;
   object-fit: cover;
 }
 
